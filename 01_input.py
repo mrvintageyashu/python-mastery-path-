@@ -1,8 +1,0 @@
-a=input("enter the name: ")
-print(a)
-b=input("enter the number:  ")
-print(b)
-c=input("enter your pet name:")
-print(c)
-d=input()
-print(d)

@@ -14,3 +14,4 @@ class Employee:
 e1=Employee(3400,"ridhi",9,"google")
 print(e1.company)
 print(Employee.company)
+print(dir(e1))

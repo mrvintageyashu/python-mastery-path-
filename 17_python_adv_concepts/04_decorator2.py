@@ -16,7 +16,12 @@ def say_hello():
 @decorator
 def say_byw():
     print("siddesh doing coding gudd")
+    
+def say_chesse():
+    print("i like to take photos")
+    
 
 kay_mhantos()
 say_hello()
 say_byw()
+say_chesses()
